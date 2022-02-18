@@ -29,7 +29,31 @@ English | [简体中文](./readme.md)
 ❎ assign permissions
 
 
-
+### usage
+1. Clone the entire project
+```
+git clone https://github.com/yangpengcheng/y-test.git
+```
+2. Enter the project directory
+```
+cd y-test
+```
+3. Installation dependencies
+```
+npm install
+```
+4. Start of development environment
+```
+npm run dev
+```
+5. Production environment packaging
+```
+npm run build
+```
+6. Production environment preview
+```
+npm run serve
+```
 
 
 

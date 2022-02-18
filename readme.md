@@ -30,6 +30,31 @@
 
 
 
+### 用法
+1. 克隆整个项目
+```
+git clone https://github.com/yangpengcheng/y-test.git
+```
+2. 进入项目目录
+```
+cd y-test
+```
+3. 安装依赖
+```
+npm install
+```
+4. 开发环境启动
+```
+npm run dev
+```
+5. 生产环境打包
+```
+npm run build
+```
+6. 生产环境预览
+```
+npm run serve
+```
 
 
 
